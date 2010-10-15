@@ -536,6 +536,16 @@ fr-FR:
     track_me_in_GA: "Track Me in GA"
     variant_deleted: "Variant has been deleted"
     variant_not_deleted: "Variant could not be deleted"
+  number:
+    format:
+      precision: 3
+      separator: ','
+      delimiter: ' '
+    currency:
+      format:
+        unit: '€'
+        precision: 2
+        format: '%n %u'
   on_hand: "Disponible"
   operation: Opération
   option_Values: "Option valeurs"
