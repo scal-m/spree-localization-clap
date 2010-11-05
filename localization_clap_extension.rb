@@ -18,7 +18,8 @@ class LocalizationClapExtension < Spree::Extension
     # Spree::BaseController.class_eval do
     #   helper YourHelper
     # end
-    
-    Spree::Config.set :default_locale => 'fr-FR'
+    if Spree::Config.instance
+      Spree::Config.set :default_locale => 'fr-FR'
+    end
   end
 end
