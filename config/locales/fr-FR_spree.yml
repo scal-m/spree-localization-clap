@@ -227,6 +227,7 @@ fr-FR:
   administration: Administration
   all: "Tous"
   all_departments: Tous les rayons
+  all_products: "Tous les produits"
   allow_backorders: "Permettre la rupture de stock"
   allow_ssl_to_be_used_when_in_developement_and_test_modes: Permettre l'utilisation du SSL lors des modes développement et test
   allow_ssl_to_be_used_when_in_production_mode: Permettre l'utilisation du SSL lors du mode production
@@ -341,7 +342,7 @@ fr-FR:
   description: Description
   destroy: Supprimer
   display: Afficher
-  do_research: "Effectuez votre recherche..."
+  do_research: "Instrument, compositeur, œuvre..."
   edit: Editer
   editing_billing_integration: "Edition du système de facturation"
   editing_category: "Edition de la catégorie"

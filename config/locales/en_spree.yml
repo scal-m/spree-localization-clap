@@ -228,6 +228,7 @@ en:
   administration: Administration
   all: "All"
   all_departments: All departments
+  all_products: "All products"
   allow_backorders: "Allow Backorders"
   allow_ssl_to_be_used_when_in_developement_and_test_modes: Allow SSL to be used when in development and test modes
   allow_ssl_to_be_used_when_in_production_mode: Allow SSL to be used in production mode
@@ -342,7 +343,7 @@ en:
   description: Description
   destroy: Destroy
   display: Display
-  do_research: "Do your research..."
+  do_research: "Instrument, composer, work ..."
   edit: Edit
   editing_billing_integration: Editing Billing Integration
   editing_category: "Editing Category"
